@@ -1,0 +1,2 @@
+# Material3_Carousel_demo
+Material3のCarouselを作ってみたサンプルAndroid Studioプロジェクト
